@@ -17,21 +17,3 @@ Project Goals
 ● GitHub Repo with Well-documented open source code.
 ● Documentation of the work and approach.
 Learning Outcomes
-In 8 weeks (two parts,4 weeks each) , the learning outcome will be to :
-● Collect open source satellite images and extract relevant features (Part 1).
-● Train a deep learning model for satellite image classification (Part 1).
-● Use the trained model to automatically generate land use and land cover
-maps for a region of interest using Python GIS (Part 2).
-● Create a Web GIS dashboard containing the LULC Map of the region of
-interest (Part 2).
-The Tasks & Timeline
-Week 1 : Research and Literature review
-Week 2 : Data Collection
-Week 3 : Data Preprocessing and Visualisation
-Week 4 : Model Development
-Week 5 : Model training
-Week 6 : Model Analysis and Interpretation
-Week 7 : Land use and Land Cover Cover map prediction
-Week 8 : Web-GIS App Development
-Timeline
-March 06 , to April 24, 2023
